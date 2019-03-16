@@ -3,26 +3,4 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
-
-    <color name="red1">#820000</color>
-    <color name="red2">#7C0000</color>
-    <color name="red3">#8F0000</color>
-    <color name="red4">#C40000</color>
-    <color name="red5">#C70101</color>
-    <color name="red6">#FF0000</color>
-
-    <color name="green1">#</color>
-    <color name="green2">#</color>
-    <color name="green3">#</color>
-    <color name="green4">#</color>
-    <color name="green5">#</color>
-    <color name="green6">#</color>
-
-    <color name="blue1">#</color>
-    <color name="blue2">#</color>
-    <color name="blue3">#</color>
-    <color name="blue4">#</color>
-    <color name="blue5">#</color>
-    <color name="blue6">#</color>
-
 </resources>
